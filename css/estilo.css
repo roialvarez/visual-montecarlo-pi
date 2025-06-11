@@ -1,0 +1,25 @@
+body{
+	font-family: monospace;
+}
+h1{
+	font-family: sans-serif;
+}
+#tablero{
+	float:left;
+}
+#tablero canvas{
+	background-color: lightgrey;
+	/*height: 500px;
+	width: 500px;
+	*/
+	border: 2px solid black;
+}
+
+#resultado{
+	margin-left: 50px;
+	font-size: 2.0em;
+	float:left;
+}
+footer{
+	clear:both;
+}
